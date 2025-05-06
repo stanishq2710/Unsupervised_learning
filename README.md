@@ -51,5 +51,7 @@ Built-in Iris dataset from scikit-learn
 Custom or generated datasets for clustering examples
 
 ⭐️ Contribute / Feedback
+
 Pull requests, issues, and stars are welcome!
+
 Feel free to fork and enhance these notebooks or apply them to your own datasets.
